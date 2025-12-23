@@ -1,0 +1,7 @@
+{
+  "name": "Aadi Sanghvi - Portfolio",
+  "description": "Interactive personal portfolio and AI assistant for Aadi Sanghvi, highlighting experience in Product Management, Software Development, and IT Administration.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
