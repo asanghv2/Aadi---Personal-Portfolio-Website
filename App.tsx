@@ -2,7 +2,6 @@
 import React, { useState } from 'react';
 import Sidebar from './components/Sidebar';
 import ExperienceTimeline from './components/ExperienceTimeline';
-import AIChatAssistant from './components/AIChatAssistant';
 import { RESUME_DATA } from './constants';
 
 const App: React.FC = () => {
@@ -230,9 +229,6 @@ const App: React.FC = () => {
           </main>
         </div>
       </div>
-
-      {/* Floating AI Assistant */}
-      <AIChatAssistant data={RESUME_DATA} />
 
       {/* Footer Meta */}
       <footer className="mt-24 border-t border-slate-100 py-12 text-center">
