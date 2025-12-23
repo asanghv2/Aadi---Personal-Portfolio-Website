@@ -6,7 +6,7 @@ export default defineConfig({
   plugins: [react()],
 
   // REQUIRED for GitHub Pages
-  base: "/Aadi---Personal-Portfolio-Website/",
+  base: "/aadiSangPortfolio/",
 
   server: {
     port: 3000,
